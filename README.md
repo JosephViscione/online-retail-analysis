@@ -4,6 +4,8 @@ A Python-based business analytics project analyzing 12 months of real transactio
 from a UK-based online retailer. The goal was to uncover actionable insights around 
 revenue trends, customer behavior, and geographic performance.
 
+![Monthly Revenue](outputs/figures/monthly_revenue.png)
+
 ---
 
 ## Project Overview
